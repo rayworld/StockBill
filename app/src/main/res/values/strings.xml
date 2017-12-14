@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StockBill</string>
+    <string name="btn_back">后退</string>
+</resources>
